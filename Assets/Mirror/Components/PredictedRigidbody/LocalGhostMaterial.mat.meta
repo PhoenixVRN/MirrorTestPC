@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ab46352d5f26974fa7628834d471144
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 96.0.1
+  assetPath: Assets/Mirror/Components/PredictedRigidbody/LocalGhostMaterial.mat
+  uploadId: 736421

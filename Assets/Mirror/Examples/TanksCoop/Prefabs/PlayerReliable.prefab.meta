@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e950adb3e3320cb41bab6e890d1897d1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 96.0.1
+  assetPath: Assets/Mirror/Examples/TanksCoop/Prefabs/PlayerReliable.prefab
+  uploadId: 736421
